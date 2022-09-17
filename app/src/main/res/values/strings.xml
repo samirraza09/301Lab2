@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Lab2</string>
     <string name="addCityButton">Add City</string>
+    <string name="deleteCityButton">Delete City</string>
     <string name="addCityText"></string>
     <string name="confirmCityButton">Confirm</string>
 </resources>

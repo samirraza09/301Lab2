@@ -13,6 +13,12 @@
         android:layout_height="wrap_content"
         android:text="@string/addCityButton" />
 
+    <Button
+        android:id="@+id/deleteCityButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/deleteCityButton" />
+
     <EditText
         android:id="@+id/addCityText"
         android:layout_width="match_parent"
